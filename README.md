@@ -6,4 +6,3 @@
 - Full-Stack Web Development Using Mongo DB, Express, React, Node.js (MERN Stack) 
 - Advanced Web Development Stack: TypeScript, Next.js, GraphQL
 
-- 
