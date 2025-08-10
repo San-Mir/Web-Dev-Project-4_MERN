@@ -4,5 +4,5 @@
 
 - Front-End Web Development Using HTML, CSS, JavaScript, React 
 - Full-Stack Web Development Using Mongo DB, Express, React, Node.js (MERN Stack) 
-- Advanced Web Development Stack: TypeScript, Next.js, GraphQL
+- Advanced Web Development Stack: Next.js, GraphQL
 
